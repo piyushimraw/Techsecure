@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "piyushimraw <piyush.srivastavaimraw@gmail.com>"
+  ],
+  "description": "this is the frontend prerequesties for this webpage",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.7",
+    "bootstrap": "^3.3.7"
+  }
+}
