@@ -1,5 +1,5 @@
-##Landing Page for Tech Secure IT Solution
-###A Surviliance camera and webcam company providing surviliance solutions.
+## Landing Page for Tech Secure IT Solution
+### A Surviliance camera and webcam company providing surviliance solutions.
 
 
 Install Bower 
